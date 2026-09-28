@@ -48,17 +48,6 @@ I mostly build things around **Minecraft, WhatsApp, Web Development, Automation,
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Danuxy-Studio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danuxy-Studio&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Danuxy-Studio&theme=tokyonight&hide_border=true"
   />
 </p>
